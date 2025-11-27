@@ -1,0 +1,5 @@
+{
+  "name": "確定申告ナビ",
+  "description": "A smart wizard to generate a personalized tax return action plan using Google Gemini with Search Grounding for up-to-date information.",
+  "requestFramePermissions": []
+}
