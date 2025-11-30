@@ -1,20 +1,18 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+# 確定申告ナビ
 
-# Run and deploy your AI Studio app
+確定申告が必要かどうかを診断し、必要な書類や手続きをガイドするWebアプリケーションです。
 
-This contains everything you need to run your app locally.
+## 使い方
 
-View your app in AI Studio: https://ai.studio/apps/drive/1sl3Ua9B9s2fo0GTRw9HlXiAPFuN1xhJ9
+1. 質問に順番に答えていく
+2. 該当する項目について「はい」を選択
+3. 診断結果とToDoリストを確認
+4. 必要に応じてAIアシスタントに質問
 
-## Run Locally
+## 主な機能
 
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+- 確定申告の必要性診断
+- 必要書類と手続きのリスト化
+- AIアシスタント（Gemini API）による質問対応
+- 国税庁公式サイトへのリンク
+- 用語解説

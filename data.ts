@@ -315,7 +315,7 @@ export const QUESTIONS: Question[] = [
   },
   {
     id: 'q10',
-    text: 'iDeCo（iDeCo）の掛金を支払っていますか？',
+    text: 'iDeCo（個人型確定拠出年金）の掛金を支払っていますか？',
     guide: '掛金を給与天引きではなく、個人の銀行口座から引き落とし（個人払込）にしていて、年末調整で「小規模企業共済等掛金控除」の申告を忘れた・していない場合が対象です。',
     referenceUrl: 'https://www.ideco-koushiki.jp/procedure/certificate.html',
     referenceLabel: 'iDeCo公式サイト：払込証明書について',
