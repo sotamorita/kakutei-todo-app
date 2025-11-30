@@ -4,6 +4,11 @@
 
 確定申告が必要かどうかを診断し、必要な書類や手続きをガイドするWebアプリケーションです。
 
+## アプリケーション
+
+以下のリンクからアクセスできます：
+[https://sotamorita.github.io/kakutei-todo-app/](https://sotamorita.github.io/kakutei-todo-app/)
+
 ## 使い方
 
 1. 質問に順番に答えていく
