@@ -1,5 +1,7 @@
 # 確定申告ナビ
 
+<img width="2816" height="1536" alt="Image" src="https://github.com/user-attachments/assets/fb351c2b-0788-49c3-8944-33028351fd85" />
+
 確定申告が必要かどうかを診断し、必要な書類や手続きをガイドするWebアプリケーションです。
 
 ## 使い方
