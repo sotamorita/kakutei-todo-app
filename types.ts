@@ -36,9 +36,3 @@ export interface Question {
 
 // User's answers
 export type Answers = Record<string, string>; // questionId -> optionId
-
-// Gemini Advice response structure
-export interface GeminiAdvice {
-  text: string;
-  sources: { title: string; url: string }[];
-}

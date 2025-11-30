@@ -1,5 +1,5 @@
 {
   "name": "確定申告ナビ",
-  "description": "A smart wizard to generate a personalized tax return action plan using Google Gemini with Search Grounding for up-to-date information.",
+  "description": "確定申告が必要かどうかを診断し、必要な書類や手続きをガイドするWebアプリケーションです。",
   "requestFramePermissions": []
 }

@@ -124,7 +124,7 @@ function App() {
       {/* Footer */}
       <footer className="bg-white border-t border-gray-200 py-6 mt-auto">
         <div className="max-w-7xl mx-auto px-4 text-center text-gray-500 text-sm">
-          <p>© {new Date().getFullYear()} 確定申告ナビ. Powered by Google Gemini.</p>
+          <p>© {new Date().getFullYear()} 確定申告ナビ</p>
           <p className="mt-1">※本アプリは一般的な情報提供を目的としています。個別の税務判断については税務署または税理士にご相談ください。</p>
         </div>
       </footer>
